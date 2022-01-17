@@ -13,6 +13,8 @@ AWSでWEBサービスを構築する際の一例です。
 
 ### 検索処理
 
+![search](./diagram/search.png)
+
 ### ログ運用
 
 ### 監視
