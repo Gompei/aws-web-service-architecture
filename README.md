@@ -9,6 +9,9 @@ AWSでWEBサービスを構築する際の一例です。
 
 ## 構成図
 
+実際に開発する際は、ECSまたはEC2 Autoスケーリングどちらかに寄せた方が楽になりそうです。  
+(今回は学習用なのでどちらも使う)
+
 ![diagram](./diagram/diagram.png)
 
 ### 検索処理
@@ -16,6 +19,8 @@ AWSでWEBサービスを構築する際の一例です。
 ![search](./diagram/search.png)
 
 ### ログ運用
+
+![log](./diagram/log.png)
 
 ### 監視
 
